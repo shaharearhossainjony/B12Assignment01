@@ -1,0 +1,56 @@
+
+.raleway-sp {
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+.navitem{
+    display:flex;
+    justify-content:space-between;
+    margin:50px 150px 0px 150px;
+    
+}
+
+.commoncolor-1{
+    background-color:#4E47FF;
+}
+nav a{
+    text-decoration:none;
+    justify-content:space-between;
+}
+.signupbtn{
+    /* color:#4E47FF; */
+    background-color:#4E47FF;
+    border:none;
+    border-radius:5px;
+    font-size:16px;
+    color:white;
+    font-weight:bold;
+    font-size:16px;
+    padding:12px 36px;
+    cursor:pointer;
+
+}
+.logo{
+    font-weight:800;
+    font-size:34px;
+}
+.hero-item{
+    text-align:center;
+    margin:309px 267.5px 237px 267.5px;
+    
+}
+.hero-item h3{
+    font-size:65px;
+    font-weight:bold;
+}
+.focusbtn{
+    cursor:pointer;
+}
+.bg-image {
+    width: 1440px;
+    height: 698px;
+    object-fit: cover; /* Optional: fill, contain, cover, etc. */
+}
