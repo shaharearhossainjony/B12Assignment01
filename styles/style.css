@@ -54,3 +54,26 @@ nav a{
     height: 698px;
     object-fit: cover; /* Optional: fill, contain, cover, etc. */
 }
+.set-in-action-item{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    
+}
+.action-text{
+    margin-left:141px;
+}
+.action-text h3{
+    font-size: 42px;
+    font-weight:bold;
+}
+.action-text p{
+    font-size:24px;
+    font-weight:400px;
+    color:#252432;
+}
+
+.wbfmini{
+    border-radius:48px;
+    margin-right:159px;
+}
